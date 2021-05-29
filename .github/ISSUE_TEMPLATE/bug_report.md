@@ -2,7 +2,7 @@
 name: Bug report
 about: Create a report to help us fix issues
 title: ''
-labels: ''
+labels: bug
 assignees: ''
 
 ---
@@ -19,6 +19,9 @@ Steps to reproduce the behavior:
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.
+
+**Crash Reports & Latest logs**
+Please upload or attach the files named "latest.log" as well as the absolute latest crash report you can provide. (Open the modpack folder, and navigate to "logs" and "crash-reports" respectively.
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
